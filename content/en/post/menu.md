@@ -55,4 +55,52 @@ We also offer 2% skim, cream, almond, and oat milk
 
 ## Smoothies
 
-**Sunrise**: Yogurt, O.J., Strawberries, Bananas .................. $7.50
+![Smoothies](/images/dbsmoothie.jpg)
+
+**Sunrise**: Yogurt, O.J., Strawberries, Bananas
+
+$7.50
+
+**Berry Good**: Yogurt, O.J., Strawberries, Blueberries, Raspberries
+
+$7.50
+
+## Breakfast
+
+![Breakfast](/images/dbbreakfast.jpg)
+
+**Acai Bowl** ................ $12.00
+
+**French Toast** ............. $10.00
+
+**Cinnamon French Toast** .... $10.50
+
+**Nutella French Toast** ..... $14.00
+
+**Belgian Waffles** .......... $11.00
+
+## Salads
+
+![Salads](/images/salad.jpg)
+
+**Greek** .................... $11.00
+
+**Caesar** ................... $12.00
+
+**Antipasto** ................ $14.00
+
+**Lovely Salad** ............. $15.00
+
+## Sandwiches
+
+![Sandwich](/images/sandwich.jpg)
+
+**Prosciutto Sandwich** ...... $12.75
+
+**The Good Stuff** ........... $12.00
+
+**Tuscan Turkey** ............ $11.50
+
+**Italian Melt** ............. $13.00
+
+**Turkey Bacon Avocado** ..... $9.75

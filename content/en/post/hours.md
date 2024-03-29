@@ -1,14 +1,12 @@
 ---
-title: "Deja Brew"
-
+title: "Deja Brew Hours"
 description: "Coffee and Sandwich Shop in Southie"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
-url: "/"
+url: "/hours"
 cascade:
-  featured_image: '/images/platter-hero.jpg'
+featured_image: '/images/db-front.png'
 ---
-# Deja Brew
 
 Come visit us in Southie!
 
@@ -20,12 +18,7 @@ Mon - Sat     **7am - 2pm**
 
 Sundays       **8am - 2pm**
 
-[![Order Online](/images/salad.jpg)
-Order Online](takeout)
+Phone #: [(617) 268-3553](tel:+16172683553)
 
+Email: [dejabrewsouthie@gmail.com](mailto:dejabrewsouthie@gmail.com)
 
-[![Sandwich](/images/deja-brew-sandwich.jpeg)
-Our Menu](menu)
-
-[![Deja Brew](/images/db-front.png)
-Hours and Contact](hours)
