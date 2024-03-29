@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://joe.infotoast.org/'
 languageCode = 'en-us'
 title = 'Deja Brew: Coffee Shop in Southie'
 theme = 'ananke'
